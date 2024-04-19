@@ -1,0 +1,358 @@
+fileFormatVersion: 2
+guid: 9b46651be408d674385b8d34009b6b6f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TatuBolitaPintado V2_1
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 170
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698ffac5951d8ad4dab303d1cb96dd36
+      internalID: -1743758334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatuBolitaPintado V2_3
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 155
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f005ef8333ecc04d8c4940c8b116fd6
+      internalID: -626631857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatuBolitaPintado V2_6
+      rect:
+        serializedVersion: 2
+        x: 8530
+        y: 165
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d43d97e6997fa49a800cbe97e265a4
+      internalID: -1512162432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatuBolitaPintado V2_2
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 140
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70acad172bd52cb4887dcca925ccdd0c
+      internalID: 2113426539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatuBolitaPintado V2_5
+      rect:
+        serializedVersion: 2
+        x: 7690
+        y: 160
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbb75db392a42049b7009500b176fc3
+      internalID: 1878258743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TatuBolitaPintado V2_4
+      rect:
+        serializedVersion: 2
+        x: 6860
+        y: 145
+        width: 820
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719c4f3a1429aa44a8bfed42fb42e7ab
+      internalID: 214903031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TatuBolitaPintado V2_64: -460569145
+      TatuBolitaPintado V2_89: -45813257
+      TatuBolitaPintado V2_12: 732907602
+      TatuBolitaPintado V2_78: -895981176
+      TatuBolitaPintado V2_74: -90721120
+      TatuBolitaPintado V2_30: -1094866822
+      TatuBolitaPintado V2_53: 545763558
+      TatuBolitaPintado V2_7: 728154858
+      TatuBolitaPintado V2_37: 777007
+      TatuBolitaPintado V2_60: -850448115
+      TatuBolitaPintado V2_23: -779365648
+      TatuBolitaPintado V2_39: -333815304
+      TatuBolitaPintado V2_0: -1929930559
+      TatuBolitaPintado V2_81: -620971598
+      TatuBolitaPintado V2_13: 1664333061
+      TatuBolitaPintado V2_70: 2115297519
+      TatuBolitaPintado V2_59: 1242873340
+      TatuBolitaPintado V2_33: 1915228123
+      TatuBolitaPintado V2_82: -1884388676
+      TatuBolitaPintado V2_29: -1396694814
+      TatuBolitaPintado V2_73: -2135093630
+      TatuBolitaPintado V2_88: -1128023625
+      TatuBolitaPintado V2_28: -143930136
+      TatuBolitaPintado V2_32: -2133648077
+      TatuBolitaPintado V2_58: -1901599907
+      TatuBolitaPintado V2_1: -1743758334
+      TatuBolitaPintado V2_45: -1419012162
+      TatuBolitaPintado V2_75: -1812458978
+      TatuBolitaPintado V2_66: -1607915066
+      TatuBolitaPintado V2_6: -1512162432
+      TatuBolitaPintado V2_31: -468638988
+      TatuBolitaPintado V2_18: -759100011
+      TatuBolitaPintado V2_5: 1878258743
+      TatuBolitaPintado V2_54: 100992730
+      TatuBolitaPintado V2_22: -230077721
+      TatuBolitaPintado V2_26: 1057739408
+      TatuBolitaPintado V2_36: 198368253
+      TatuBolitaPintado V2_50: -2141574077
+      TatuBolitaPintado V2_27: 1401444333
+      TatuBolitaPintado V2_43: -2082175956
+      TatuBolitaPintado V2_3: -626631857
+      TatuBolitaPintado V2_10: -151332514
+      TatuBolitaPintado V2_20: -298131511
+      TatuBolitaPintado V2_56: 7407551
+      TatuBolitaPintado V2_48: -1322375867
+      TatuBolitaPintado V2_51: 395944659
+      TatuBolitaPintado V2_49: -1022588092
+      TatuBolitaPintado V2_72: -1073452222
+      TatuBolitaPintado V2_62: -810814447
+      TatuBolitaPintado V2_68: -1030610289
+      TatuBolitaPintado V2_52: -494886027
+      TatuBolitaPintado V2_55: -2047632101
+      TatuBolitaPintado V2_42: -1686598981
+      TatuBolitaPintado V2_83: -265077829
+      TatuBolitaPintado V2_87: 895365166
+      TatuBolitaPintado V2_19: 1221035797
+      TatuBolitaPintado V2_2: 2113426539
+      TatuBolitaPintado V2_63: -599342855
+      TatuBolitaPintado V2_34: -30857736
+      TatuBolitaPintado V2_41: 815386411
+      TatuBolitaPintado V2_11: -2051355196
+      TatuBolitaPintado V2_35: 1852537305
+      TatuBolitaPintado V2_40: 765609942
+      TatuBolitaPintado V2_46: -253575456
+      TatuBolitaPintado V2_61: 1016691974
+      TatuBolitaPintado V2_69: 1298209061
+      TatuBolitaPintado V2_79: -562905761
+      TatuBolitaPintado V2_15: -259055224
+      TatuBolitaPintado V2_47: 1344251702
+      TatuBolitaPintado V2_80: 457204342
+      TatuBolitaPintado V2_67: -2036297729
+      TatuBolitaPintado V2_57: 1874303726
+      TatuBolitaPintado V2_4: 214903031
+      TatuBolitaPintado V2_85: -1756788184
+      TatuBolitaPintado V2_76: -198962345
+      TatuBolitaPintado V2_71: -122988165
+      TatuBolitaPintado V2_24: -937786583
+      TatuBolitaPintado V2_65: 1808128749
+      TatuBolitaPintado V2_90: -1139529601
+      TatuBolitaPintado V2_8: 1867072518
+      TatuBolitaPintado V2_44: 1620676382
+      TatuBolitaPintado V2_38: -804920072
+      TatuBolitaPintado V2_77: 1986766826
+      TatuBolitaPintado V2_86: -1042979467
+      TatuBolitaPintado V2_84: 1751265535
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,415 @@
+fileFormatVersion: 2
+guid: 1d9154e10a03b5c4bbcdae72be60d545
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoboPulo_1
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 678
+        width: 554
+        height: 1345
+      alignment: 9
+      pivot: {x: 0.5, y: 0.40989125}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4999edab386f2b4a9ec19ef821a9cda
+      internalID: 313662450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_2
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 678
+        width: 635
+        height: 1321
+      alignment: 9
+      pivot: {x: 0.51060337, y: 0.38786626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b89bf1014ef5a14dad542c42be8d304
+      internalID: 289540090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_3
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 678
+        width: 753
+        height: 1304
+      alignment: 9
+      pivot: {x: 0.5357671, y: 0.38124093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb04d5345097cf4085abace82efa014
+      internalID: -1665110527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_4
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 678
+        width: 650
+        height: 1321
+      alignment: 9
+      pivot: {x: 0.5, y: 0.38786626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da24b2edee4e69a44af658a0ccc93b53
+      internalID: 600831647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_5
+      rect:
+        serializedVersion: 2
+        x: 3852
+        y: 684
+        width: 688
+        height: 1321
+      alignment: 9
+      pivot: {x: 0.4314944, y: 0.40825415}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff047a5067fcc645acdb58ec866067e
+      internalID: 2097490418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_6
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 832
+        width: 908
+        height: 1351
+      alignment: 9
+      pivot: {x: 0.37393954, y: 0.41029143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d69bcd5918ee0a3479b3f1038cfb1df6
+      internalID: 140871227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_7
+      rect:
+        serializedVersion: 2
+        x: 5655
+        y: 1176
+        width: 1044
+        height: 1238
+      alignment: 9
+      pivot: {x: 0.4226079, y: 0.3803484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6275b900d7749994b890a4942e83a2d0
+      internalID: 1052556462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_8
+      rect:
+        serializedVersion: 2
+        x: 6732
+        y: 1105
+        width: 1159
+        height: 1220
+      alignment: 9
+      pivot: {x: 0.4535248, y: 0.37306407}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc4665f19727d14c8333b4f25f294b5
+      internalID: 2089666457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_9
+      rect:
+        serializedVersion: 2
+        x: 8010
+        y: 892
+        width: 1067
+        height: 1291
+      alignment: 9
+      pivot: {x: 0.47475857, y: 0.38526052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526ae4b7f19ea649bf6082f84f767de
+      internalID: 500125633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_10
+      rect:
+        serializedVersion: 2
+        x: 9356
+        y: 652
+        width: 650
+        height: 1282
+      alignment: 9
+      pivot: {x: 0.56215143, y: 0.41596735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef0a525c74f2c54e8314e30ba6dddb9
+      internalID: -1270842339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboPulo_11
+      rect:
+        serializedVersion: 2
+        x: 10433
+        y: 646
+        width: 670
+        height: 1347
+      alignment: 9
+      pivot: {x: 0.5301495, y: 0.40002787}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8447643776747ff469be04c33047c7f5
+      internalID: 530041106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LoboPulo_12: 1784817838
+      LoboPulo_3: -1665110527
+      LoboPulo_7: 1052556462
+      LoboPulo_25: -1625117506
+      LoboPulo_18: 302051563
+      LoboPulo_15: 598387418
+      LoboPulo_6: 140871227
+      LoboPulo_17: -8006282
+      LoboPulo_23: 1549774850
+      LoboPulo_11: 530041106
+      LoboPulo_33: 157237133
+      LoboPulo_36: 2141091207
+      LoboPulo_30: 1631170562
+      LoboPulo_14: 604148988
+      LoboPulo_34: 1330962821
+      LoboPulo_13: 580127915
+      LoboPulo_22: -454517258
+      LoboPulo_9: 500125633
+      LoboPulo_10: -1270842339
+      LoboPulo_32: 1850154029
+      LoboPulo_26: -482439963
+      LoboPulo_2: 289540090
+      LoboPulo_1: 313662450
+      LoboPulo_0: -846059651
+      LoboPulo_29: 151810738
+      LoboPulo_19: 1517227056
+      LoboPulo_35: 1047526707
+      LoboPulo_20: 1002210175
+      LoboPulo_31: 1273807103
+      LoboPulo_21: -815121186
+      LoboPulo_5: 2097490418
+      LoboPulo_8: 2089666457
+      LoboPulo_4: 600831647
+      LoboPulo_16: 468074806
+      LoboPulo_27: -1651403023
+      LoboPulo_28: 72978495
+      LoboPulo_24: -1949384624
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

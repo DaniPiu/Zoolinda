@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: a5e4bbbd33fe5874ca7c57093391cd03
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TrailerLobo_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 466
+        width: 911
+        height: 1645
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af89a8f6b38f44284911a61ff6e3ab
+      internalID: 666866808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_1
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 447
+        width: 771
+        height: 1643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afeec2710fbb324599a8ececdefeaff
+      internalID: 460833468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_3
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 457
+        width: 681
+        height: 1632
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548b3416aed767f4b9bc118938a58f79
+      internalID: 1621140967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_5
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 447
+        width: 651
+        height: 1643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8fe242c23b6e94498ac1d0b6fbde8f
+      internalID: -1768586195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_11
+      rect:
+        serializedVersion: 2
+        x: 3620
+        y: 447
+        width: 754
+        height: 1639
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdf43c0efbffa946b4eabfcfd51aeb8
+      internalID: -1053824368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_12
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 444
+        width: 722
+        height: 1643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f4f80cef23a94e89298b6a16448c4
+      internalID: -268723122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_13
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 466
+        width: 719
+        height: 1620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ef3389055ec74a89bbd46d6cf6d27
+      internalID: -230707039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TrailerLobo_14
+      rect:
+        serializedVersion: 2
+        x: 5988
+        y: 447
+        width: 668
+        height: 1635
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226c9c99f734e674f9cca910be4ac38c
+      internalID: -78750611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      TrailerLobo_78: -428239337
+      TrailerLobo_67: -966260920
+      TrailerLobo_52: 918102783
+      TrailerLobo_53: 362694164
+      TrailerLobo_18: 81332194
+      TrailerLobo_42: 1834691330
+      TrailerLobo_4: 187509474
+      TrailerLobo_48: 191466143
+      TrailerLobo_21: -1360281207
+      TrailerLobo_80: 2049938826
+      TrailerLobo_27: -2036345156
+      TrailerLobo_65: -1816768631
+      TrailerLobo_45: 720816998
+      TrailerLobo_72: 1076745011
+      TrailerLobo_31: 2060946114
+      TrailerLobo_35: 1378104364
+      TrailerLobo_75: 2104774025
+      TrailerLobo_0: 666866808
+      TrailerLobo_2: 1550213403
+      TrailerLobo_5: -1768586195
+      TrailerLobo_8: 1574071196
+      TrailerLobo_44: 795472289
+      TrailerLobo_17: -986346414
+      TrailerLobo_10: 939903565
+      TrailerLobo_56: 543785148
+      TrailerLobo_30: -605749430
+      TrailerLobo_49: -1621183965
+      TrailerLobo_12: -268723122
+      TrailerLobo_54: 915820644
+      TrailerLobo_66: 710036281
+      TrailerLobo_26: 250311335
+      TrailerLobo_13: -230707039
+      TrailerLobo_33: -875689353
+      TrailerLobo_50: 1377369009
+      TrailerLobo_77: -62465638
+      TrailerLobo_60: 1509863859
+      TrailerLobo_69: 424906998
+      TrailerLobo_34: -1891416851
+      TrailerLobo_14: -78750611
+      TrailerLobo_51: -1987806031
+      TrailerLobo_40: 445172322
+      TrailerLobo_29: 1190281091
+      TrailerLobo_59: 403201447
+      TrailerLobo_16: -2071206310
+      TrailerLobo_20: -1805445147
+      TrailerLobo_71: -94236762
+      TrailerLobo_43: -239426168
+      TrailerLobo_22: 1185734747
+      TrailerLobo_15: 69230176
+      TrailerLobo_39: -1892493597
+      TrailerLobo_23: -1008338473
+      TrailerLobo_47: -2081219934
+      TrailerLobo_9: -1263678339
+      TrailerLobo_74: -112546115
+      TrailerLobo_11: -1053824368
+      TrailerLobo_24: -165741268
+      TrailerLobo_3: 1621140967
+      TrailerLobo_25: -1529147764
+      TrailerLobo_19: 1575832705
+      TrailerLobo_61: -518899516
+      TrailerLobo_1: 460833468
+      TrailerLobo_62: 632079811
+      TrailerLobo_63: 1577589783
+      TrailerLobo_81: 608060291
+      TrailerLobo_36: -1884517189
+      TrailerLobo_68: 80928241
+      TrailerLobo_73: -643919142
+      TrailerLobo_6: 359356374
+      TrailerLobo_79: 1909766599
+      TrailerLobo_7: -1518568208
+      TrailerLobo_37: -1099083679
+      TrailerLobo_46: 392404709
+      TrailerLobo_58: -2135532855
+      TrailerLobo_55: -765800891
+      TrailerLobo_41: -442080726
+      TrailerLobo_70: 23438510
+      TrailerLobo_32: 1494660201
+      TrailerLobo_76: 1864163246
+      TrailerLobo_57: 153403051
+      TrailerLobo_28: -777729254
+      TrailerLobo_64: -39197380
+      TrailerLobo_38: 1258085919
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

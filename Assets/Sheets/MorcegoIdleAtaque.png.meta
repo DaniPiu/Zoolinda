@@ -1,0 +1,381 @@
+fileFormatVersion: 2
+guid: 3ba4447aaf1592047b15a985baa9a4f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ebc5e240062914dad330a77a75eec6
+      internalID: -924580988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_1
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6525e71da2a5b648bf31e1a1b7c465f
+      internalID: -1901831989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_2
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbd08d8ab0fab344be08906ab1eb30c
+      internalID: -108900945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_3
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0856c73b21a7ac44caf0ccb5fa68923f
+      internalID: 1871212961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_4
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed84552c48e6c8048aafbfa19c804d4d
+      internalID: -1430421501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_5
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a185b435b7c0e5c4ea6d763577feec8a
+      internalID: 615566088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_6
+      rect:
+        serializedVersion: 2
+        x: 2635
+        y: 115
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cbd0f6cad0b754bb99f2edb84eecf3
+      internalID: 7365556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_7
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 108
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c427059838ef742b769067f2bb46c9
+      internalID: -1169310790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MorcegoIdleAtaque_8
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 108
+        width: 430
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f327058cce6c0447b8de96a573e8334
+      internalID: -1023327171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MorcegoIdleAtaque_25: 802281684
+      MorcegoIdleAtaque_43: 1200643122
+      MorcegoIdleAtaque_14: 447800653
+      MorcegoIdleAtaque_40: 1555436369
+      MorcegoIdleAtaque_2: -108900945
+      MorcegoIdleAtaque_26: -2053425129
+      MorcegoIdleAtaque_29: 853093628
+      MorcegoIdleAtaque_12: -615129822
+      MorcegoIdleAtaque_24: -1748588770
+      MorcegoIdleAtaque_22: 558279062
+      MorcegoIdleAtaque_10: 2144048326
+      MorcegoIdleAtaque_41: -250650011
+      MorcegoIdleAtaque_28: -1446169465
+      MorcegoIdleAtaque_30: -1440441602
+      MorcegoIdleAtaque_16: 715470231
+      MorcegoIdleAtaque_9: -1943665861
+      MorcegoIdleAtaque_8: -1023327171
+      MorcegoIdleAtaque_17: -952402432
+      MorcegoIdleAtaque_18: -1566297796
+      MorcegoIdleAtaque_13: 2043501309
+      MorcegoIdleAtaque_38: 1765179783
+      MorcegoIdleAtaque_27: -1203844232
+      MorcegoIdleAtaque_37: 1974480914
+      MorcegoIdleAtaque_0: -924580988
+      MorcegoIdleAtaque_15: -808898405
+      MorcegoIdleAtaque_42: -1438269199
+      MorcegoIdleAtaque_4: -1430421501
+      MorcegoIdleAtaque_44: 2091471681
+      MorcegoIdleAtaque_19: 308411355
+      MorcegoIdleAtaque_35: -356506699
+      MorcegoIdleAtaque_7: -1169310790
+      MorcegoIdleAtaque_39: 159991029
+      MorcegoIdleAtaque_5: 615566088
+      MorcegoIdleAtaque_6: 7365556
+      MorcegoIdleAtaque_3: 1871212961
+      MorcegoIdleAtaque_20: 528520389
+      MorcegoIdleAtaque_23: -1153885325
+      MorcegoIdleAtaque_11: 1088689304
+      MorcegoIdleAtaque_33: 603665369
+      MorcegoIdleAtaque_1: -1901831989
+      MorcegoIdleAtaque_34: 710295666
+      MorcegoIdleAtaque_32: 2129418933
+      MorcegoIdleAtaque_21: -2039541568
+      MorcegoIdleAtaque_36: -1318406341
+      MorcegoIdleAtaque_31: -100967836
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

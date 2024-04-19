@@ -1,0 +1,333 @@
+fileFormatVersion: 2
+guid: c1dfcd05c0b728247a19d716be38a5ba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Pregui\xE7aIdle_1"
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 80
+        width: 1750
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.27336273, y: 0.31694666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525ed3848f5adfd4792f29f479407d2d
+      internalID: 145075005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pregui\xE7aIdle_2"
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 80
+        width: 1750
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.27336273, y: 0.31450593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c22806a0029f343a0ac2a487e0f2ba
+      internalID: 1919583241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pregui\xE7aIdle_4"
+      rect:
+        serializedVersion: 2
+        x: 5715
+        y: 80
+        width: 1750
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.26973662, y: 0.31450593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c2da6a8ae02ff469c93da33d5ab805
+      internalID: -1651527050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pregui\xE7aIdle_5"
+      rect:
+        serializedVersion: 2
+        x: 7685
+        y: 80
+        width: 1750
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.273363, y: 0.3120652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d61a13e66a38f4894d6e3e1843404d
+      internalID: 1211350093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Pregui\xE7aIdle_3"
+      rect:
+        serializedVersion: 2
+        x: 3845
+        y: 80
+        width: 1750
+        height: 1300
+      alignment: 9
+      pivot: {x: 0.26792356, y: 0.31450593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e98b4e145903efe4c8a433b100d2d274
+      internalID: -487976513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Pregui\xE7aIdle_24": 212838367
+      "Pregui\xE7aIdle_37": 143350760
+      "Pregui\xE7aIdle_64": 1204867425
+      "Pregui\xE7aIdle_48": 2084141199
+      "Pregui\xE7aIdle_83": 302496586
+      "Pregui\xE7aIdle_29": -265107961
+      "Pregui\xE7aIdle_50": 1900960821
+      "Pregui\xE7aIdle_31": 748748289
+      "Pregui\xE7aIdle_5": 1211350093
+      "Pregui\xE7aIdle_17": 965740965
+      "Pregui\xE7aIdle_47": 2058131345
+      "Pregui\xE7aIdle_39": 109465594
+      "Pregui\xE7aIdle_44": -151209496
+      "Pregui\xE7aIdle_45": 817636420
+      "Pregui\xE7aIdle_15": 798799794
+      "Pregui\xE7aIdle_36": -1380736294
+      "Pregui\xE7aIdle_8": 1097466493
+      "Pregui\xE7aIdle_70": -546131930
+      "Pregui\xE7aIdle_80": -528570330
+      "Pregui\xE7aIdle_74": -2011379733
+      "Pregui\xE7aIdle_56": -2115973168
+      "Pregui\xE7aIdle_68": 856042082
+      "Pregui\xE7aIdle_73": 902536526
+      "Pregui\xE7aIdle_76": -1962881665
+      "Pregui\xE7aIdle_59": 921950226
+      "Pregui\xE7aIdle_63": -2131065107
+      "Pregui\xE7aIdle_26": -605544318
+      "Pregui\xE7aIdle_43": 498541
+      "Pregui\xE7aIdle_58": -1209210838
+      "Pregui\xE7aIdle_13": 1003888078
+      "Pregui\xE7aIdle_53": -185748895
+      "Pregui\xE7aIdle_71": -693011180
+      "Pregui\xE7aIdle_4": -1651527050
+      "Pregui\xE7aIdle_35": -1462793443
+      "Pregui\xE7aIdle_6": 1814120959
+      "Pregui\xE7aIdle_2": 1919583241
+      "Pregui\xE7aIdle_32": -1207237481
+      "Pregui\xE7aIdle_38": -1843900564
+      "Pregui\xE7aIdle_78": -2037098266
+      "Pregui\xE7aIdle_67": -1663491805
+      "Pregui\xE7aIdle_77": 366426695
+      "Pregui\xE7aIdle_7": -406033809
+      "Pregui\xE7aIdle_81": 2023958704
+      "Pregui\xE7aIdle_14": 2102599603
+      "Pregui\xE7aIdle_54": 195625342
+      "Pregui\xE7aIdle_9": 1307196652
+      "Pregui\xE7aIdle_62": -401510427
+      "Pregui\xE7aIdle_42": -441758301
+      "Pregui\xE7aIdle_19": -2018853391
+      "Pregui\xE7aIdle_57": 1994068149
+      "Pregui\xE7aIdle_65": 1133696642
+      "Pregui\xE7aIdle_30": -1590355334
+      "Pregui\xE7aIdle_40": 1574911906
+      "Pregui\xE7aIdle_52": 360675958
+      "Pregui\xE7aIdle_25": -1574060086
+      "Pregui\xE7aIdle_20": -1757461550
+      "Pregui\xE7aIdle_46": -1878481390
+      "Pregui\xE7aIdle_60": -113518005
+      "Pregui\xE7aIdle_84": 2051539889
+      "Pregui\xE7aIdle_75": -2136750937
+      "Pregui\xE7aIdle_66": 746289140
+      "Pregui\xE7aIdle_11": 1190597500
+      "Pregui\xE7aIdle_0": 271625974
+      "Pregui\xE7aIdle_28": 1279754567
+      "Pregui\xE7aIdle_41": 2027482510
+      "Pregui\xE7aIdle_55": 1541686985
+      "Pregui\xE7aIdle_33": 814941895
+      "Pregui\xE7aIdle_10": -1587011437
+      "Pregui\xE7aIdle_79": -1319281823
+      "Pregui\xE7aIdle_1": 145075005
+      "Pregui\xE7aIdle_72": 381690698
+      "Pregui\xE7aIdle_51": 659713746
+      "Pregui\xE7aIdle_49": -771203036
+      "Pregui\xE7aIdle_3": -487976513
+      "Pregui\xE7aIdle_34": -347128152
+      "Pregui\xE7aIdle_12": 275976424
+      "Pregui\xE7aIdle_23": 1269817813
+      "Pregui\xE7aIdle_69": 1065586852
+      "Pregui\xE7aIdle_61": 806278254
+      "Pregui\xE7aIdle_82": 809598008
+      "Pregui\xE7aIdle_85": 1897822071
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

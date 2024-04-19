@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: dd247e0caf42ee240a9fc403956e0c7c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LoboParado_4
+      rect:
+        serializedVersion: 2
+        x: 2420
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.51759857, y: 0.41146535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df3fc9feb17a2048ad231ce66198f74
+      internalID: -328499494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_8
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5351971, y: 0.42078477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1aaf4c52de2d842aa1c729f4fd8cc2
+      internalID: -33757332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_10
+      rect:
+        serializedVersion: 2
+        x: 6490
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5439968, y: 0.41146535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e01584246e7db40b8257004084a53d
+      internalID: 1648102626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_11
+      rect:
+        serializedVersion: 2
+        x: 7225
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5439968, y: 0.40680563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868f9392b2efd3f4497cfea233d289d5
+      internalID: 1450170692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_1
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.535197, y: 0.41146535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9179fb54be41092419c04946402972fb
+      internalID: 1590508191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_2
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5351971, y: 0.4114653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a0210c2eaa28640bfce3e83340c233
+      internalID: 1794044546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_3
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5351971, y: 0.41146535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8707e9c4619bfca4a9e7b617c915bece
+      internalID: -742547552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_5
+      rect:
+        serializedVersion: 2
+        x: 3130
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5351971, y: 0.41146535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f02a04d6d411641a7bde002cc7f03d
+      internalID: 1408471160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_6
+      rect:
+        serializedVersion: 2
+        x: 3780
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5351971, y: 0.41612506}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dc950df32d2e64c9c63213260eac54
+      internalID: -1583553541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_7
+      rect:
+        serializedVersion: 2
+        x: 4415
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.5351971, y: 0.40680563}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0606c0976b16d694782b3f411260d0c9
+      internalID: 673751716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LoboParado_9
+      rect:
+        serializedVersion: 2
+        x: 5800
+        y: 598
+        width: 645
+        height: 1218
+      alignment: 9
+      pivot: {x: 0.51759857, y: 0.41146535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ac6a3595e284048935a3a269d072b8
+      internalID: -529663059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      LoboParado_24: -244961807
+      LoboParado_30: -1041822696
+      LoboParado_25: 302381999
+      LoboParado_21: -514449454
+      LoboParado_50: 2143625682
+      LoboParado_10: 1648102626
+      LoboParado_38: 848520843
+      LoboParado_55: -1375854384
+      LoboParado_51: -759458860
+      LoboParado_2: 1794044546
+      LoboParado_23: 1113190740
+      LoboParado_28: 9318319
+      LoboParado_7: 673751716
+      LoboParado_53: 759275266
+      LoboParado_20: 1263747855
+      LoboParado_45: -1933675771
+      LoboParado_6: -1583553541
+      LoboParado_46: 2038429467
+      LoboParado_36: -956551232
+      LoboParado_4: -328499494
+      LoboParado_44: 426755918
+      LoboParado_42: 1059717778
+      LoboParado_22: -1776037206
+      LoboParado_40: -1485431978
+      LoboParado_33: -469174839
+      LoboParado_43: -1334740834
+      LoboParado_3: -742547552
+      LoboParado_49: -2028517991
+      LoboParado_16: 1187098018
+      LoboParado_0: -2044716288
+      LoboParado_39: 1276165866
+      LoboParado_31: -1645642595
+      LoboParado_37: -333773504
+      LoboParado_54: 1414570382
+      LoboParado_26: -1993543601
+      LoboParado_9: -529663059
+      LoboParado_27: -678777408
+      LoboParado_29: 862223416
+      LoboParado_48: -1637412713
+      LoboParado_8: -33757332
+      LoboParado_47: -1855647296
+      LoboParado_56: -554434957
+      LoboParado_5: 1408471160
+      LoboParado_19: -1359523370
+      LoboParado_57: -2143708408
+      LoboParado_35: 1543938036
+      LoboParado_41: -147457574
+      LoboParado_34: -1316320599
+      LoboParado_1: 1590508191
+      LoboParado_11: 1450170692
+      LoboParado_32: -1196754186
+      LoboParado_52: -251220251
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

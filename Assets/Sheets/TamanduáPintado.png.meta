@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 5c0c7a5bf5ed54b4b90177878519efd2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Tamandu\xE1Pintado_3"
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 103
+        width: 679
+        height: 1038
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a3b5cac7e32474191b2aa4437317de
+      internalID: -1823204866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tamandu\xE1Pintado_6"
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 63
+        width: 745
+        height: 1064
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45035bda4c3d5b42a8111e250299ba1
+      internalID: 466059603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tamandu\xE1Pintado_10"
+      rect:
+        serializedVersion: 2
+        x: 3611
+        y: 63
+        width: 746
+        height: 1062
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4b2dae4508ef4ba4f65a553a52453
+      internalID: -993235782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tamandu\xE1Pintado_14"
+      rect:
+        serializedVersion: 2
+        x: 2702
+        y: 67
+        width: 753
+        height: 1058
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efc786d71b754a448f4c326072b80a1
+      internalID: -1556370378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Tamandu\xE1Pintado_16"
+      rect:
+        serializedVersion: 2
+        x: 1022
+        y: 64
+        width: 723
+        height: 1054
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce471a7f75e1f91449b00591d42a9b26
+      internalID: -1941971278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Tamandu\xE1Pintado_37": 2006325984
+      "Tamandu\xE1Pintado_3": -1823204866
+      "Tamandu\xE1Pintado_40": 1594613639
+      "Tamandu\xE1Pintado_65": 102562568
+      "Tamandu\xE1Pintado_43": 1722387528
+      "Tamandu\xE1Pintado_64": -801361111
+      "Tamandu\xE1Pintado_61": -1370375224
+      "Tamandu\xE1Pintado_53": -1871784209
+      "Tamandu\xE1Pintado_98": -704614160
+      "Tamandu\xE1Pintado_0": 931494491
+      "Tamandu\xE1Pintado_113": -1809009637
+      "Tamandu\xE1Pintado_34": 2112992546
+      "Tamandu\xE1Pintado_48": 660056521
+      "Tamandu\xE1Pintado_62": 783347793
+      "Tamandu\xE1Pintado_88": -296296870
+      "Tamandu\xE1Pintado_7": 1269982177
+      "Tamandu\xE1Pintado_99": 2102035176
+      "Tamandu\xE1Pintado_9": -814616924
+      "Tamandu\xE1Pintado_26": -220328096
+      "Tamandu\xE1Pintado_38": 1476888102
+      "Tamandu\xE1Pintado_86": 51340909
+      "Tamandu\xE1Pintado_51": -764793333
+      "Tamandu\xE1Pintado_77": 878016712
+      "Tamandu\xE1Pintado_112": -1160410372
+      "Tamandu\xE1Pintado_18": 1035561013
+      "Tamandu\xE1Pintado_21": -648611668
+      "Tamandu\xE1Pintado_68": -1185904292
+      "Tamandu\xE1Pintado_47": 205856884
+      "Tamandu\xE1Pintado_6": 466059603
+      "Tamandu\xE1Pintado_76": -1537526549
+      "Tamandu\xE1Pintado_35": -451158583
+      "Tamandu\xE1Pintado_14": -1556370378
+      "Tamandu\xE1Pintado_24": -380310133
+      "Tamandu\xE1Pintado_95": 1618041383
+      "Tamandu\xE1Pintado_85": -1142454239
+      "Tamandu\xE1Pintado_114": -629399211
+      "Tamandu\xE1Pintado_87": 1319326825
+      "Tamandu\xE1Pintado_1": -868671371
+      "Tamandu\xE1Pintado_20": 1951270176
+      "Tamandu\xE1Pintado_100": 811649217
+      "Tamandu\xE1Pintado_60": 103659270
+      "Tamandu\xE1Pintado_117": -255108352
+      "Tamandu\xE1Pintado_16": -1941971278
+      "Tamandu\xE1Pintado_96": -1465911736
+      "Tamandu\xE1Pintado_70": -167305031
+      "Tamandu\xE1Pintado_102": -1022476359
+      "Tamandu\xE1Pintado_73": 479881371
+      "Tamandu\xE1Pintado_81": 2041654550
+      "Tamandu\xE1Pintado_89": -1866589146
+      "Tamandu\xE1Pintado_41": 1618863367
+      "Tamandu\xE1Pintado_83": 700876753
+      "Tamandu\xE1Pintado_74": -62253768
+      "Tamandu\xE1Pintado_111": 1477783109
+      "Tamandu\xE1Pintado_31": 101828904
+      "Tamandu\xE1Pintado_75": 855823903
+      "Tamandu\xE1Pintado_72": -284598141
+      "Tamandu\xE1Pintado_50": -1375915498
+      "Tamandu\xE1Pintado_36": -1351899972
+      "Tamandu\xE1Pintado_90": -513951892
+      "Tamandu\xE1Pintado_49": 205361147
+      "Tamandu\xE1Pintado_5": 963360108
+      "Tamandu\xE1Pintado_92": 17651276
+      "Tamandu\xE1Pintado_91": -1491735892
+      "Tamandu\xE1Pintado_115": 2007832228
+      "Tamandu\xE1Pintado_52": -959161597
+      "Tamandu\xE1Pintado_23": 843144379
+      "Tamandu\xE1Pintado_12": -1524702044
+      "Tamandu\xE1Pintado_13": -1649032732
+      "Tamandu\xE1Pintado_2": 652647816
+      "Tamandu\xE1Pintado_32": 985915357
+      "Tamandu\xE1Pintado_84": -1766431709
+      "Tamandu\xE1Pintado_10": -993235782
+      "Tamandu\xE1Pintado_17": 309665088
+      "Tamandu\xE1Pintado_71": 1918875185
+      "Tamandu\xE1Pintado_119": -1768223293
+      "Tamandu\xE1Pintado_105": -1094525128
+      "Tamandu\xE1Pintado_104": -1549512130
+      "Tamandu\xE1Pintado_108": -386446845
+      "Tamandu\xE1Pintado_97": 52208104
+      "Tamandu\xE1Pintado_78": 2094980636
+      "Tamandu\xE1Pintado_116": -2093556086
+      "Tamandu\xE1Pintado_15": 1159689111
+      "Tamandu\xE1Pintado_44": 2038924245
+      "Tamandu\xE1Pintado_56": -1889031384
+      "Tamandu\xE1Pintado_110": -1793111154
+      "Tamandu\xE1Pintado_82": 1442888841
+      "Tamandu\xE1Pintado_4": -1558064011
+      "Tamandu\xE1Pintado_11": 929603879
+      "Tamandu\xE1Pintado_103": -1003494633
+      "Tamandu\xE1Pintado_46": 197524646
+      "Tamandu\xE1Pintado_39": -2012950226
+      "Tamandu\xE1Pintado_33": 1465708965
+      "Tamandu\xE1Pintado_57": 843130009
+      "Tamandu\xE1Pintado_54": 1033287104
+      "Tamandu\xE1Pintado_66": -1237864693
+      "Tamandu\xE1Pintado_59": -237553238
+      "Tamandu\xE1Pintado_19": 1979090128
+      "Tamandu\xE1Pintado_107": 1948566144
+      "Tamandu\xE1Pintado_106": -1441558228
+      "Tamandu\xE1Pintado_8": 112798553
+      "Tamandu\xE1Pintado_67": -623402817
+      "Tamandu\xE1Pintado_30": 950280977
+      "Tamandu\xE1Pintado_109": -1487169866
+      "Tamandu\xE1Pintado_93": -228477490
+      "Tamandu\xE1Pintado_29": -1444533158
+      "Tamandu\xE1Pintado_45": -2031737064
+      "Tamandu\xE1Pintado_69": -656992263
+      "Tamandu\xE1Pintado_28": -901780605
+      "Tamandu\xE1Pintado_42": 1980216929
+      "Tamandu\xE1Pintado_118": 889949802
+      "Tamandu\xE1Pintado_22": -1072744835
+      "Tamandu\xE1Pintado_79": 1304706707
+      "Tamandu\xE1Pintado_63": 2083229712
+      "Tamandu\xE1Pintado_80": -1630923006
+      "Tamandu\xE1Pintado_94": -904641178
+      "Tamandu\xE1Pintado_58": 1227134401
+      "Tamandu\xE1Pintado_101": 1596733577
+      "Tamandu\xE1Pintado_27": 618192226
+      "Tamandu\xE1Pintado_25": -1191316790
+      "Tamandu\xE1Pintado_55": 50630930
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
